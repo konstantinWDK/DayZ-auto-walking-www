@@ -24,5 +24,5 @@ A small AutoHotkey script that lets you toggle “walk forward” in DayZ by tap
 1. **Descarga e instala** AutoHotkey v1.x desde la web oficial.  
 2. **Clona** o descarga este repositorio:  
    ```bash
-   git clone https://github.com/konstantinWDK/DayZ-auto-walking.git
+   git clone https://github.com/konstantinWDK/DayZ-auto-walking-www.git
 
